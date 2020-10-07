@@ -1,0 +1,17 @@
+export default {
+  ALL: 'All',
+  Bike: 'Home',
+  Animal: 'Contact',
+  Home: 'Home',
+  Account: 'Account',
+  Logout: 'Logout',
+  Login: 'Login',
+  Register: 'Register',
+  LoginwithGoogle: 'Login With Google Account',
+  Username: 'User name',
+  Password: 'Password',
+  id: 'Id',
+  content1: 'Say something cool',
+  content2: 'Other cool stuff',
+  content3: 'Im already out of descriptions',
+};
